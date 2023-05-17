@@ -9,14 +9,14 @@ variable "azure-subscription-id" {
   description = "Azure Subscription ID"
 }
 
-variable "azure-client-id" {
+variable "azure-password" {
   type        = string
-  description = "Azure Client ID"
+  description = "Azure Password"
 }
 
-variable "azure-client-secret" {
+variable "azure-username" {
   type        = string
-  description = "Azure Client Secret"
+  description = "Azure Username"
 }
 
 variable "azure-tenant-id" {

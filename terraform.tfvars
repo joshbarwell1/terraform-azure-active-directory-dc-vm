@@ -26,8 +26,8 @@ network-subnet-cidr = "10.127.1.0/24"
 ad_domain_name                      = "bigboi.local"
 ad_domain_netbios_name              = "bigboi"
 ad_admin_username                   = "bigboiadmin"
-ad_admin_password                   = "_L5HJ~C.D:nwfg*b"
-ad_safe_mode_administrator_password = "YyV`GpTr:cLr]4W4"
+ad_admin_password                   = "placeholder"
+ad_safe_mode_administrator_password = "placeholder"
 
 #####################
 # Domain Controller #
