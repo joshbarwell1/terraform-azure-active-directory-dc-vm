@@ -10,7 +10,7 @@ location    = "westus"
 # Authentication #
 ##################
 azure-tenant-id       = "84f1e4ea-8554-43e1-8709-f0b8589ea118"
-azure-subscription-id = "4G6veidO1hmBBHo!E0H0"
+azure-subscription-id = "80ea84e8-afce-4851-928a-9e2219724c69"
 
 
 ###########
@@ -25,8 +25,8 @@ network-subnet-cidr = "10.127.1.0/24"
 ad_domain_name                      = "bigboi.local"
 ad_domain_netbios_name              = "bigboi"
 ad_admin_username                   = "bigboiadmin"
-ad_admin_password                   = "placeholder"
-ad_safe_mode_administrator_password = "placeholder"
+ad_admin_password                   = "zF1d9QzB4%6x"
+ad_safe_mode_administrator_password = "zF1d9QzB4%6x"
 
 #####################
 # Domain Controller #
